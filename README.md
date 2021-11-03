@@ -11,17 +11,13 @@ Some small python scripts I wrote whilst learning the language.
 ## Repo Structure
 
 ### move_files
-This one should move files.
-[file](/move_files.py)
+This [file](/move_files.py) should move some files.
 
 ### ordnerinhalte anzeigen
-Show folder contents.
-[file](/basic%20concepts/ordnerinhalte%20anzeigen.py)
+This [file](/basic%20concepts/ordnerinhalte%20anzeigen.py) shows folder contents.
 
 ### type_conv
-Convert a float into an integer and print the result.
-[file](/basic%20concepts/type_conv.py)
+This [file](/basic%20concepts/type_conv.py) converts a float into an integer and prints the result.
 
 ### variables
-Define variables in a multitude of ways and print the result.
-[file](/basic%20concepts/variables.py)
+This [file](/basic%20concepts/variables.py) defines variables in a multitude of ways and prints the result.
